@@ -1,3 +1,5 @@
+# Pull & Play, extremely verbose, KISS Dockerfile for Mautic 5.1.1
+
 ...
    _____                  __  __             _   _        ____  _  ______  
   | ____|__ _ ___ _   _  |  \/  | __ _ _   _| |_(_) ___  |  _ \| |/ /  _ \ 
@@ -6,8 +8,6 @@
   |_____\__,_|___/\__, | |_|  |_|\__,_|\__,_|\__|_|\___| |____/|_|\_\_| \_\
                    |___/                                                    
 ...
-      Pull & Play, extremely verbose, KISS Dockerfile for Mautic 5.1.1
-
 
  Intended uses: 
  - A simple way to test Mautic.
