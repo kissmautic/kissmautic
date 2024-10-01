@@ -9,6 +9,8 @@
                    |___/
                    
 ```
+TL;DR: docker pull kissmautic/easy-mautic:5.1.1
+https://hub.docker.com/repositories/kissmautic
 
  Intended uses: 
  - A simple way to test Mautic.
