@@ -20,6 +20,7 @@
  Otherwise, please consider one of these other repos: 
  kissmautic/mautic-advanced, For production deployments.
  kissmautic/mautic-dev, For development stacks.
+```
 
 
                                  --                                   
@@ -58,5 +59,6 @@
                                                                 __/ |
                                                                |___/ 
                                                                          
+```
 
 
