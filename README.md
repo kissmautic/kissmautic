@@ -1,4 +1,4 @@
-# Pull & Play, extremely verbose, KISS Dockerfile for Mautic 5.1.1
+# Pull & Play, verbose, KISS Dockerfile for Mautic 5.1.1
 
 ```
    _____                    __  __             _   _          ____  _  ______  
