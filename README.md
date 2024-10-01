@@ -11,7 +11,7 @@
 ```
 TL;DR: docker pull kissmautic/easy-mautic:5.1.1
 
-https://hub.docker.com/repositories/kissmautic
+https://hub.docker.com/repository/docker/kissmautic/easy-mautic
 
 
  Intended uses: 
