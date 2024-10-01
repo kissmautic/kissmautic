@@ -17,8 +17,9 @@ https://hub.docker.com/repository/docker/kissmautic/easy-mautic
 
  Intended uses: 
  - A simple way to test Mautic.
- - An live overview of Mautic requirements.
+ - An overview of Mautic runtime requirements.
  - A starting point for Mautic code exploration and tinkering.
+
  It is NOT meant as a production ready image.
 
  If you have any ideas how to make it clearer or simpler, please submit a PR or an Issue.
