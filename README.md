@@ -9,7 +9,7 @@
                    |___/
                    
 ```
-TL;DR: docker pull kissmautic/easy-mautic:5.1.1
+TL;DR: docker run kissmautic/easy-mautic:5.1.1
 
 https://hub.docker.com/repository/docker/kissmautic/easy-mautic
 
