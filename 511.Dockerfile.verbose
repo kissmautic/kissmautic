@@ -17,8 +17,8 @@
 
 # If you have any ideas how to make it clearer or simpler, please submit a PR or an Issue.
 # Otherwise, please consider one of these other repos: 
-# Mautic DKR Advanced. For production deployments.
-# Mautic DKR DEV. For development stacks.
+# kissmautic/mautic-advanced, For production deployments.
+# kissmautic/mautic-dev, For development stacks.
 
 # We use ARGuments to parametrize the build-time parameters.
 # While Debian is the only OS supported by this Dockerfile,
